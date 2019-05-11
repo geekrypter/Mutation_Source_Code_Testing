@@ -1,0 +1,239 @@
+Last login: Tue Nov 13 20:56:13 on ttys001
+You have new mail.
+raju:~ psramaraju$ cd Desktop/MuJava
+raju:MuJava psramaraju$ CLASSPATH=$CLASSPATH:/Users/psramaraju/Desktop/MuJava/mujava.jar:/Users/psramaraju/Desktop/MuJava/openjava.jar:/usr/bin/java:/Users/psramaraju/Desktop/MuJava/mujava.jar:/Users/psramaraju/Desktop/MuJava/openjava.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/lib/tools.jar ; export CLASSPATH 
+raju:MuJava psramaraju$ java mujava.gui.RunTestMain
+myinterpreter.FrontEndTest
+
+
+======================================== Generating Original Test Results ========================================
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+{testImplementation=pass}
+ No mutants have been generated for the class FrontEnd
+
+
+======================================== Executing Mutants ========================================
+test report: {testImplementation=}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  SDL_10Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+{testImplementation=pass}
+  ROR_1>>>
+ time_out: more than 10000 milliseconds
+  SDL_11Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+{testImplementation=pass}
+  COR_1Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+{testImplementation=pass}
+  COI_1>>>
+ time_out: more than 10000 milliseconds
+  SDL_2Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+{testImplementation=pass}
+  SDL_5Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+{testImplementation=pass}
+  SDL_4{testImplementation=testImplementation: 14; expected:<[3.0]> but was:<[]>}
+  SDL_3>>>
+ time_out: more than 10000 milliseconds
+  ODL_3Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+{testImplementation=pass}
+  ODL_4Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+{testImplementation=pass}
+  SDL_12{testImplementation=testImplementation: 14; expected:<[3.0]> but was:<[]>}
+  COR_2Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+{testImplementation=pass}
+  SDL_1{testImplementation=testImplementation: 14; expected:<[3.0]> but was:<[]>}
+  SDL_8Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+{testImplementation=pass}
+  COI_2Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+{testImplementation=pass}
+  SDL_9Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+{testImplementation=pass}
+  SDL_7Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+{testImplementation=pass}
+test report: {testImplementation=ROR_1, COI_1, SDL_4, SDL_3, SDL_12, SDL_1}
+mutant report: {SDL_11=, SDL_5=, SDL_4=testImplementation, SDL_12=testImplementation, SDL_7=, SDL_9=, SDL_8=, COI_2=, SDL_10=, COR_2=, COR_1=, ROR_1=testImplementation, ODL_3=, ODL_4=, COI_1=testImplementation, SDL_1=testImplementation, SDL_3=testImplementation, SDL_2=}
+raju:MuJava psramaraju$ 

@@ -1,0 +1,31 @@
+Last login: Tue Nov 13 21:05:14 on ttys001
+You have new mail.
+raju:~ psramaraju$ cd Desktop/MuJava
+raju:MuJava psramaraju$ CLASSPATH=$CLASSPATH:/Users/psramaraju/Desktop/MuJava/mujava.jar:/Users/psramaraju/Desktop/MuJava/openjava.jar:/usr/bin/java:/Users/psramaraju/Desktop/MuJava/mujava.jar:/Users/psramaraju/Desktop/MuJava/openjava.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/lib/tools.jar ; export CLASSPATH 
+raju:MuJava psramaraju$ java mujava.gui.RunTestMain
+myinterpreter.CNTASGNExceptionTest
+
+
+======================================== Generating Original Test Results ========================================
+Cannot Assign to operator!
+Cannot Assign to operator!
+Cannot Assign to operator!
+Cannot Assign to operator!
+Cannot Assign to operator!
+{testCNTASGNException=pass}
+ No mutants have been generated for the class CNTASGNException
+
+
+======================================== Executing Mutants ========================================
+test report: {testCNTASGNException=}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  SDL_2Cannot Assign to operator!
+{testCNTASGNException=testCNTASGNException: 14; expected:<[Cannot Assign to operator!]> but was:<[]>}
+  SDL_1{testCNTASGNException=pass}
+test report: {testCNTASGNException=SDL_2}
+mutant report: {SDL_1=, SDL_2=testCNTASGNException}
+raju:MuJava psramaraju$ 

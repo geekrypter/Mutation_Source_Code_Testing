@@ -1,0 +1,31 @@
+Last login: Tue Nov 13 21:08:33 on ttys001
+You have new mail.
+raju:~ psramaraju$ cd Desktop/MuJava
+raju:MuJava psramaraju$ CLASSPATH=$CLASSPATH:/Users/psramaraju/Desktop/MuJava/mujava.jar:/Users/psramaraju/Desktop/MuJava/openjava.jar:/usr/bin/java:/Users/psramaraju/Desktop/MuJava/mujava.jar:/Users/psramaraju/Desktop/MuJava/openjava.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/lib/tools.jar ; export CLASSPATH 
+raju:MuJava psramaraju$ java mujava.gui.RunTestMain
+myinterpreter.IVSTExceptionTest
+
+
+======================================== Generating Original Test Results ========================================
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+{test=pass}
+ No mutants have been generated for the class IVSTException
+
+
+======================================== Executing Mutants ========================================
+test report: {test=}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  SDL_2Invalid Syntax!
+{test=test: 14; expected:<[Invalid Syntax!]> but was:<[]>}
+  SDL_1{test=pass}
+test report: {test=SDL_2}
+mutant report: {SDL_1=, SDL_2=test}
+raju:MuJava psramaraju$ 

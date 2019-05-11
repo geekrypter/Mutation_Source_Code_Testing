@@ -1,0 +1,142 @@
+Last login: Tue Nov 13 21:06:31 on ttys001
+You have new mail.
+raju:~ psramaraju$ cd Desktop/MuJava
+raju:MuJava psramaraju$ CLASSPATH=$CLASSPATH:/Users/psramaraju/Desktop/MuJava/mujava.jar:/Users/psramaraju/Desktop/MuJava/openjava.jar:/usr/bin/java:/Users/psramaraju/Desktop/MuJava/mujava.jar:/Users/psramaraju/Desktop/MuJava/openjava.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/lib/tools.jar ; export CLASSPATH 
+raju:MuJava psramaraju$ java mujava.gui.RunTestMain
+myinterpreter.NVExceptionTest
+
+
+======================================== Generating Original Test Results ========================================
+Variable : ' tempVariable 'does not exist!
+Variable : ' tempVariable 'does not exist!
+Variable : ' tempVariable 'does not exist!
+Variable : ' tempVariable 'does not exist!
+Variable : ' tempVariable 'does not exist!
+{test=pass}
+ No mutants have been generated for the class NVException
+
+
+======================================== Executing Mutants ========================================
+test report: {test=}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  SDL_1Variable : ' null 'does not exist!
+{test=test: 14; expected:<Variable : ' [tempVariable] 'does not exist!> but was:<Variable : ' [null] 'does not exist!>}
+test report: {test=SDL_1}
+mutant report: {SDL_1=test}
+
+
+======================================== Executing Mutants ========================================
+  ODL_7Variable : ' tempVariable '
+Variable : ' tempVariable '
+Variable : ' tempVariable '
+Variable : ' tempVariable '
+Variable : ' tempVariable '
+{test=pass}
+  ODL_9Variable : ' tempVariable 'does not exist!
+{test=test: 14; expected:<Variable : [' ]tempVariable 'does n...> but was:<Variable : []tempVariable 'does n...>}
+  ODL_8does not exist!
+does not exist!
+does not exist!
+does not exist!
+does not exist!
+{test=pass}
+  ODL_1Variable : tempVariable 'does not exist!
+Variable : tempVariable 'does not exist!
+Variable : tempVariable 'does not exist!
+Variable : tempVariable 'does not exist!
+Variable : tempVariable 'does not exist!
+{test=pass}
+  ODL_6 'does not exist!
+ 'does not exist!
+ 'does not exist!
+ 'does not exist!
+ 'does not exist!
+{test=pass}
+  ODL_15Variable : ' tempVariable 'does not exist!
+{test=test: 14; expected:<...e : ' tempVariable '[does not exist!]> but was:<...e : ' tempVariable '[]>}
+  ODL_12Variable : ' tempVariable 'does not exist!
+{test=test: 14; expected:<[Variable : ' ]tempVariable 'does n...> but was:<[]tempVariable 'does n...>}
+  ODL_13Variable : ' tempVariable 'does not exist!
+{test=test: 14; expected:<...ble : ' tempVariable[ ']does not exist!> but was:<...ble : ' tempVariable[]does not exist!>}
+  ODL_14Variable : ' tempVariable 'does not exist!
+{test=test: 14; expected:<[Variable : ' tempVariable] 'does not exist!> but was:<[] 'does not exist!>}
+  SDL_2{test=pass}
+  SDL_3Variable : ' tempVariable 'does not exist!
+{test=test: 14; expected:<[Variable : ' tempVariable 'does not exist!]> but was:<[]>}
+  CDL_5Variable : ' tempVariable 'does not exist!
+{test=test: 14; expected:<[Variable : ]' tempVariable 'does...> but was:<[]' tempVariable 'does...>}
+  CDL_2Variable : tempVariable 'does not exist!
+Variable : tempVariable 'does not exist!
+Variable : tempVariable 'does not exist!
+Variable : tempVariable 'does not exist!
+Variable : tempVariable 'does not exist!
+{test=pass}
+  CDL_3Variable : ' tempVariabledoes not exist!
+Variable : ' tempVariabledoes not exist!
+Variable : ' tempVariabledoes not exist!
+Variable : ' tempVariabledoes not exist!
+Variable : ' tempVariabledoes not exist!
+{test=pass}
+  CDL_4Variable : ' tempVariable '
+Variable : ' tempVariable '
+Variable : ' tempVariable '
+Variable : ' tempVariable '
+Variable : ' tempVariable '
+{test=pass}
+  VDL_2Variable : ' tempVariable 'does not exist!
+{test=test: 14; expected:<Variable : ' [tempVariable] 'does not exist!> but was:<Variable : ' [] 'does not exist!>}
+  ODL_3Variable : '  'does not exist!
+Variable : '  'does not exist!
+Variable : '  'does not exist!
+Variable : '  'does not exist!
+Variable : '  'does not exist!
+{test=pass}
+  ODL_4tempVariable 'does not exist!
+tempVariable 'does not exist!
+tempVariable 'does not exist!
+tempVariable 'does not exist!
+tempVariable 'does not exist!
+{test=pass}
+  ODL_5Variable : ' tempVariabledoes not exist!
+Variable : ' tempVariabledoes not exist!
+Variable : ' tempVariabledoes not exist!
+Variable : ' tempVariabledoes not exist!
+Variable : ' tempVariabledoes not exist!
+{test=pass}
+  ODL_2' tempVariable 'does not exist!
+' tempVariable 'does not exist!
+' tempVariable 'does not exist!
+' tempVariable 'does not exist!
+' tempVariable 'does not exist!
+{test=pass}
+  ODL_11Variable : ' tempVariable 'does not exist!
+{test=test: 14; expected:<Variable : ' [tempVariable] 'does not exist!> but was:<Variable : ' [] 'does not exist!>}
+  ODL_16Variable : ' tempVariable 'does not exist!
+{test=test: 14; expected:<[Variable : ' tempVariable ']does not exist!> but was:<[]does not exist!>}
+  ODL_10Variable : ' tempVariable 'does not exist!
+{test=test: 14; expected:<[Variable : ]' tempVariable 'does...> but was:<[]' tempVariable 'does...>}
+  CDL_8Variable : ' tempVariable 'does not exist!
+{test=test: 14; expected:<...e : ' tempVariable '[does not exist!]> but was:<...e : ' tempVariable '[]>}
+  CDL_1' tempVariable 'does not exist!
+' tempVariable 'does not exist!
+' tempVariable 'does not exist!
+' tempVariable 'does not exist!
+' tempVariable 'does not exist!
+{test=pass}
+  CDL_6Variable : ' tempVariable 'does not exist!
+{test=test: 14; expected:<Variable : [' ]tempVariable 'does n...> but was:<Variable : []tempVariable 'does n...>}
+  VDL_1Variable : '  'does not exist!
+Variable : '  'does not exist!
+Variable : '  'does not exist!
+Variable : '  'does not exist!
+Variable : '  'does not exist!
+{test=pass}
+  CDL_7Variable : ' tempVariable 'does not exist!
+{test=test: 14; expected:<...ble : ' tempVariable[ ']does not exist!> but was:<...ble : ' tempVariable[]does not exist!>}
+test report: {test=SDL_1, ODL_9, ODL_15, ODL_12, ODL_13, ODL_14, SDL_3, CDL_5, VDL_2, ODL_11, ODL_16, ODL_10, CDL_8, CDL_6, CDL_7}
+mutant report: {VDL_2=test, VDL_1=, CDL_4=, CDL_5=test, CDL_6=test, CDL_7=test, CDL_8=test, ODL_9=test, ODL_8=, CDL_1=, CDL_2=, CDL_3=, ODL_1=, ODL_3=, ODL_2=, ODL_5=, ODL_4=, ODL_7=, ODL_10=test, ODL_6=, ODL_12=test, ODL_11=test, ODL_14=test, ODL_13=test, SDL_1=test, ODL_16=test, ODL_15=test, SDL_3=test, SDL_2=}
+raju:MuJava psramaraju$ 

@@ -1,0 +1,2679 @@
+Last login: Wed Nov 14 09:44:56 on ttys001
+You have new mail.
+raju:~ psramaraju$ cd Desktop/MuJava
+raju:MuJava psramaraju$ CLASSPATH=$CLASSPATH:/Users/psramaraju/Desktop/MuJava/mujava.jar:/Users/psramaraju/Desktop/MuJava/openjava.jar:/usr/bin/java:/Users/psramaraju/Desktop/MuJava/mujava.jar:/Users/psramaraju/Desktop/MuJava/openjava.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/lib/tools.jar ; export CLASSPATH 
+raju:MuJava psramaraju$ java mujava.gui.RunTestMain
+myinterpreter.BackEndTest
+
+
+======================================== Generating Original Test Results ========================================
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+ No mutants have been generated for the class BackEnd
+
+
+======================================== Executing Mutants ========================================
+test report: {testInputVaidation=, testInputWOSpaces=, testProcessor=}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  COI_1Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[2+1]>}
+test report: {testInputVaidation=, testInputWOSpaces=, testProcessor=COI_1}
+mutant report: {COI_1=testProcessor}
+
+
+======================================== Executing Mutants ========================================
+  COR_8Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+  AOIU_4{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  COR_24Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+  COR_23Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  AOIU_3Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+  COR_6Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+  COR_15Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  COR_1Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+  COR_12Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+  LOI_15Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=testInputVaidation: 137; String index out of range: -2, testInputWOSpaces=pass, testProcessor=testProcessor: 218; String index out of range: -2}
+  COI_32Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Paranthesis not properly balanced!]>}
+  LOI_5{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  COI_35Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Paranthesis not properly balanced!]>}
+  LOI_12{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  COR_13Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  COR_14Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+  COR_7Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 198; expected:<[3.0]> but was:<[Invalid character!]>}
+  AOIU_2{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  COR_22Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 218; expected:<[Invalid character!]> but was:<[2.0]>}
+  COR_9Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 198; expected:<[3.0]> but was:<[Invalid character!]>}
+  COR_25Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 218; expected:<[Invalid character!]> but was:<[2.0]>}
+  LOI_4{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  LOI_13{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  COI_34Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 198; expected:<[3.0]> but was:<[Paranthesis not properly balanced!]>}
+  LOI_3{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  COI_33Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Paranthesis not properly balanced!]>}
+  LOI_14Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=testInputVaidation: 137; String index out of range: -2, testInputWOSpaces=pass, testProcessor=testProcessor: 206; String index out of range: -1}
+  COI_11Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 198; expected:<[3.0]> but was:<[Invalid character!]>}
+  COI_6Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 218; expected:<[Invalid character!]> but was:<[2.0]>}
+  COI_16Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 206; expected:<[Variable given as input]> but was:<[Invalid character!]>}
+  COI_29Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 206; expected:<[Variable given as input]> but was:<[Invalid character!]>}
+  COI_20Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  COI_8Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid character!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 214; expected:<Invalid [Syntax]!> but was:<Invalid [character]!>}
+  COI_27Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  COI_18Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 218; expected:<[Invalid character!]> but was:<[2.0]>}
+  COI_26Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 218; expected:<[Invalid character!]> but was:<[2.0]>}
+  COI_19Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  COI_21Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  COI_9Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid character!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 214; expected:<Invalid [Syntax]!> but was:<Invalid [character]!>}
+  COI_17Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  COI_28Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 206; expected:<[Variable given as input]> but was:<[Invalid character!]>}
+  COI_7Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 218; expected:<[Invalid character!]> but was:<[2.0]>}
+  COI_10Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 198; expected:<[3.0]> but was:<[Invalid character!]>}
+  VDL_2 time_out: more than 5000 milliseconds
+  LOI_6{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  LOI_11{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  LOI_1{testInputVaidation=testInputVaidation: 33; String index out of range: 3, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: 3}
+  LOI_16Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=testInputVaidation: 137; String index out of range: -2, testInputWOSpaces=pass, testProcessor=testProcessor: 206; String index out of range: -1}
+  COI_31Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  LOI_8{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  LOI_20{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  LOI_18{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  COR_20Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+  COR_18Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  COR_27Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  COR_2Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+  COR_11Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  COR_5Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid character!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 214; expected:<Invalid [Syntax]!> but was:<Invalid [character]!>}
+  COR_16Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+  LOI_19{testInputVaidation=testInputVaidation: 85; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 198; String index out of range: -1}
+  LOI_9{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  COI_30Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 206; expected:<[Variable given as input]> but was:<[Invalid character!]>}
+  LOI_17Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=testInputVaidation: 137; String index out of range: -2, testInputWOSpaces=pass, testProcessor=testProcessor: 206; String index out of range: -1}
+  LOI_7{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  LOI_10{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  COR_28Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+  COR_17Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 218; expected:<[Invalid character!]> but was:<[2.0]>}
+  COR_4Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+  COR_10Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+  COR_3Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+  COR_19Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  COR_26Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 206; expected:<[Variable given as input]> but was:<[Invalid character!]>}
+  COR_21Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 218; expected:<[Invalid character!]> but was:<[2.0]>}
+  AOIU_1{testInputVaidation=testInputVaidation: 33; String index out of range: 3, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: 3}
+  AORS_1{testInputVaidation=testInputVaidation: 33; String index out of range: -1, testInputWOSpaces=pass, testProcessor=testProcessor: 194; String index out of range: -1}
+  COI_2{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 202; String index out of range: 4}
+  COI_15Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  COI_12Invalid character!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 198; expected:<[3.0]> but was:<[Invalid character!]>}
+  COI_5Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 218; expected:<[Invalid character!]> but was:<[2.0]>}
+  COI_24Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=pass}
+  COI_23Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  COI_22Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  COI_25Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 218; expected:<[Invalid character!]> but was:<[2.0]>}
+  COI_4Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 218; expected:<[Invalid character!]> but was:<[2.0]>}
+  COI_13Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 198; expected:<[3.0]> but was:<[Invalid character!]>}
+  COI_14Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 194; expected:<[3.0]> but was:<[Invalid character!]>}
+  COI_3Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+{testInputVaidation=pass, testInputWOSpaces=pass, testProcessor=testProcessor: 218; expected:<[Invalid character!]> but was:<[2.0]>}
+test report: {testInputVaidation=AOIU_4, LOI_15, LOI_5, LOI_12, AOIU_2, LOI_4, LOI_13, LOI_3, LOI_14, VDL_2, LOI_6, LOI_11, LOI_1, LOI_16, LOI_8, LOI_20, LOI_18, LOI_19, LOI_9, LOI_17, LOI_7, LOI_10, AOIU_1, AORS_1, testInputWOSpaces=VDL_2, testProcessor=COI_1, AOIU_4, COR_23, COR_15, LOI_15, COI_32, LOI_5, COI_35, LOI_12, COR_13, COR_7, AOIU_2, COR_22, COR_9, COR_25, LOI_4, LOI_13, COI_34, LOI_3, COI_33, LOI_14, COI_11, COI_6, COI_16, COI_29, COI_20, COI_8, COI_27, COI_18, COI_26, COI_19, COI_21, COI_9, COI_17, COI_28, COI_7, COI_10, VDL_2, LOI_6, LOI_11, LOI_1, LOI_16, COI_31, LOI_8, LOI_20, LOI_18, COR_18, COR_27, COR_11, COR_5, LOI_19, LOI_9, COI_30, LOI_17, LOI_7, LOI_10, COR_17, COR_19, COR_26, COR_21, AOIU_1, AORS_1, COI_2, COI_15, COI_12, COI_5, COI_23, COI_22, COI_25, COI_4, COI_13, COI_14, COI_3}
+mutant report: {COI_7=testProcessor, COI_6=testProcessor, COI_9=testProcessor, COI_8=testProcessor, COI_3=testProcessor, COI_2=testProcessor, COI_5=testProcessor, COI_4=testProcessor, LOI_5=testInputVaidation, testProcessor, LOI_6=testInputVaidation, testProcessor, LOI_7=testInputVaidation, testProcessor, LOI_8=testInputVaidation, testProcessor, AORS_1=testInputVaidation, testProcessor, LOI_1=testInputVaidation, testProcessor, LOI_3=testInputVaidation, testProcessor, LOI_4=testInputVaidation, testProcessor, COI_10=testProcessor, COI_11=testProcessor, COI_12=testProcessor, COI_13=testProcessor, COI_14=testProcessor, COI_15=testProcessor, COI_16=testProcessor, COI_17=testProcessor, COI_18=testProcessor, COI_1=testProcessor, COI_19=testProcessor, COI_30=testProcessor, COI_20=testProcessor, COI_21=testProcessor, COI_22=testProcessor, COI_23=testProcessor, LOI_9=testInputVaidation, testProcessor, COI_24=, COI_25=testProcessor, COI_26=testProcessor, COI_27=testProcessor, COI_28=testProcessor, COI_29=testProcessor, COR_6=, COR_14=, COR_15=testProcessor, COR_5=testProcessor, COR_8=, VDL_2=testInputWOSpaces, testInputVaidation, testProcessor, COR_16=, COR_7=testProcessor, COR_17=testProcessor, LOI_18=testInputVaidation, testProcessor, COR_2=, COR_10=, COR_1=, COR_11=testProcessor, LOI_19=testInputVaidation, testProcessor, COR_12=, COR_4=, COR_13=testProcessor, COR_3=, COI_31=testProcessor, COI_32=testProcessor, COI_33=testProcessor, COI_34=testProcessor, COI_35=testProcessor, LOI_20=testInputVaidation, testProcessor, COR_20=, AOIU_3=, COR_25=testProcessor, AOIU_4=testInputVaidation, testProcessor, COR_26=testProcessor, COR_27=testProcessor, AOIU_1=testInputVaidation, testProcessor, AOIU_2=testInputVaidation, testProcessor, COR_28=, COR_21=testProcessor, COR_22=testProcessor, COR_23=testProcessor, COR_24=, LOI_14=testInputVaidation, testProcessor, LOI_15=testInputVaidation, testProcessor, LOI_16=testInputVaidation, testProcessor, LOI_17=testInputVaidation, testProcessor, COR_18=testProcessor, LOI_10=testInputVaidation, testProcessor, COR_9=testProcessor, LOI_11=testInputVaidation, testProcessor, COR_19=testProcessor, LOI_12=testInputVaidation, testProcessor, LOI_13=testInputVaidation, testProcessor}
+
+
+======================================== Executing Mutants ========================================
+  LOI_24Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=testInputWOSpaces: 14; String index out of range: -1, testProcessor=testProcessor: 194; String index out of range: -1}
+  LOI_23Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=testInputWOSpaces: 14; String index out of range: -1, testProcessor=testProcessor: 194; String index out of range: -1}
+  AOIU_5Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=testInputWOSpaces: 14; String index out of range: 11, testProcessor=testProcessor: 194; String index out of range: 3}
+  AORS_2Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=testInputWOSpaces: 14; String index out of range: -1, testProcessor=testProcessor: 194; String index out of range: -1}
+  VDL_4 time_out: more than 5000 milliseconds
+  COI_36Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=testInputWOSpaces: 14; expected:<[HelloWorld]> but was:<[]>, testProcessor=testProcessor: 194; String index out of range: 0}
+  LOI_21Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=testInputWOSpaces: 14; String index out of range: 11, testProcessor=testProcessor: 194; String index out of range: 3}
+  COI_37Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=testInputWOSpaces: 14; expected:<[HelloWorld]> but was:<[ ]>, testProcessor=testProcessor: 194; String index out of range: 0}
+  AOIU_6Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+Invalid character!
+{testInputVaidation=pass, testInputWOSpaces=testInputWOSpaces: 14; String index out of range: -1, testProcessor=testProcessor: 194; String index out of range: -1}
+test report: {testInputVaidation=AOIU_4, LOI_15, LOI_5, LOI_12, AOIU_2, LOI_4, LOI_13, LOI_3, LOI_14, VDL_2, LOI_6, LOI_11, LOI_1, LOI_16, LOI_8, LOI_20, LOI_18, LOI_19, LOI_9, LOI_17, LOI_7, LOI_10, AOIU_1, AORS_1, VDL_4, testInputWOSpaces=VDL_2, LOI_24, LOI_23, AOIU_5, AORS_2, VDL_4, COI_36, LOI_21, COI_37, AOIU_6, testProcessor=COI_1, AOIU_4, COR_23, COR_15, LOI_15, COI_32, LOI_5, COI_35, LOI_12, COR_13, COR_7, AOIU_2, COR_22, COR_9, COR_25, LOI_4, LOI_13, COI_34, LOI_3, COI_33, LOI_14, COI_11, COI_6, COI_16, COI_29, COI_20, COI_8, COI_27, COI_18, COI_26, COI_19, COI_21, COI_9, COI_17, COI_28, COI_7, COI_10, VDL_2, LOI_6, LOI_11, LOI_1, LOI_16, COI_31, LOI_8, LOI_20, LOI_18, COR_18, COR_27, COR_11, COR_5, LOI_19, LOI_9, COI_30, LOI_17, LOI_7, LOI_10, COR_17, COR_19, COR_26, COR_21, AOIU_1, AORS_1, COI_2, COI_15, COI_12, COI_5, COI_23, COI_22, COI_25, COI_4, COI_13, COI_14, COI_3, LOI_24, LOI_23, AOIU_5, AORS_2, VDL_4, COI_36, LOI_21, COI_37, AOIU_6}
+mutant report: {COI_7=testProcessor, COI_6=testProcessor, COI_9=testProcessor, COI_8=testProcessor, COI_3=testProcessor, COI_2=testProcessor, COI_5=testProcessor, COI_4=testProcessor, LOI_5=testInputVaidation, testProcessor, LOI_6=testInputVaidation, testProcessor, LOI_7=testInputVaidation, testProcessor, LOI_8=testInputVaidation, testProcessor, LOI_1=testInputVaidation, testProcessor, LOI_3=testInputVaidation, testProcessor, LOI_4=testInputVaidation, testProcessor, COI_1=testProcessor, LOI_9=testInputVaidation, testProcessor, COR_6=, COR_14=, VDL_4=testInputWOSpaces, testInputVaidation, testProcessor, COR_15=testProcessor, COR_5=testProcessor, COR_8=, VDL_2=testInputWOSpaces, testInputVaidation, testProcessor, COR_16=, COR_7=testProcessor, COR_17=testProcessor, COR_2=, COR_10=, COR_1=, COR_11=testProcessor, COR_12=, COR_4=, COR_13=testProcessor, COR_3=, COI_31=testProcessor, COI_32=testProcessor, COI_33=testProcessor, COI_34=testProcessor, COI_35=testProcessor, COI_36=testInputWOSpaces, testProcessor, COI_37=testInputWOSpaces, testProcessor, COR_20=, AOIU_3=, COR_25=testProcessor, AOIU_4=testInputVaidation, testProcessor, COR_26=testProcessor, COR_27=testProcessor, AOIU_1=testInputVaidation, testProcessor, AOIU_2=testInputVaidation, testProcessor, COR_28=, COR_21=testProcessor, COR_22=testProcessor, COR_23=testProcessor, COR_24=, COR_18=testProcessor, COR_9=testProcessor, COR_19=testProcessor, AOIU_5=testInputWOSpaces, testProcessor, AOIU_6=testInputWOSpaces, testProcessor, AORS_2=testInputWOSpaces, testProcessor, AORS_1=testInputVaidation, testProcessor, COI_10=testProcessor, COI_11=testProcessor, COI_12=testProcessor, COI_13=testProcessor, COI_14=testProcessor, COI_15=testProcessor, COI_16=testProcessor, COI_17=testProcessor, COI_18=testProcessor, COI_19=testProcessor, COI_30=testProcessor, COI_20=testProcessor, COI_21=testProcessor, COI_22=testProcessor, COI_23=testProcessor, COI_24=, COI_25=testProcessor, COI_26=testProcessor, COI_27=testProcessor, COI_28=testProcessor, COI_29=testProcessor, LOI_18=testInputVaidation, testProcessor, LOI_19=testInputVaidation, testProcessor, LOI_21=testInputWOSpaces, testProcessor, LOI_23=testInputWOSpaces, testProcessor, LOI_24=testInputWOSpaces, testProcessor, LOI_20=testInputVaidation, testProcessor, LOI_14=testInputVaidation, testProcessor, LOI_15=testInputVaidation, testProcessor, LOI_16=testInputVaidation, testProcessor, LOI_17=testInputVaidation, testProcessor, LOI_10=testInputVaidation, testProcessor, LOI_11=testInputVaidation, testProcessor, LOI_12=testInputVaidation, testProcessor, LOI_13=testInputVaidation, testProcessor}
+raju:MuJava psramaraju$ 

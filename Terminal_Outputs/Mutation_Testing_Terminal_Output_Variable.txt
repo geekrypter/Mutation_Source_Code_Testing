@@ -1,0 +1,42 @@
+Last login: Tue Nov 13 20:50:28 on ttys000
+You have new mail.
+raju:~ psramaraju$ cd Desktop/MuJava
+raju:MuJava psramaraju$ CLASSPATH=$CLASSPATH:/Users/psramaraju/Desktop/MuJava/mujava.jar:/Users/psramaraju/Desktop/MuJava/openjava.jar:/usr/bin/java:/Users/psramaraju/Desktop/MuJava/mujava.jar:/Users/psramaraju/Desktop/MuJava/openjava.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/lib/tools.jar ; export CLASSPATH 
+raju:MuJava psramaraju$ java mujava.gui.RunTestMain
+myinterpreter.VariableTest
+
+
+======================================== Generating Original Test Results ========================================
+{testGetVariableName=pass}
+ No mutants have been generated for the class Variable
+
+
+======================================== Executing Mutants ========================================
+test report: {testGetVariableName=}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  SDL_1{testGetVariableName=testGetVariableName: 17; expected:<tempVariable1> but was:<null>}
+test report: {testGetVariableName=SDL_1}
+mutant report: {SDL_1=testGetVariableName}
+
+
+======================================== Executing Mutants ========================================
+  SDL_2{testGetVariableName=pass}
+test report: {testGetVariableName=SDL_1}
+mutant report: {SDL_1=testGetVariableName, SDL_2=}
+
+
+======================================== Executing Mutants ========================================
+  SDL_3{testGetVariableName=testGetVariableName: 17; expected:<[tempVariable1]> but was:<[]>}
+test report: {testGetVariableName=SDL_1, SDL_3}
+mutant report: {SDL_1=testGetVariableName, SDL_3=testGetVariableName, SDL_2=}
+ No mutants have been generated for the method java.lang.Double_getVariableValue() of the classVariable
+
+
+======================================== Executing Mutants ========================================
+test report: {testGetVariableName=SDL_1, SDL_3}
+mutant report: {SDL_1=testGetVariableName, SDL_3=testGetVariableName, SDL_2=}
+raju:MuJava psramaraju$ 

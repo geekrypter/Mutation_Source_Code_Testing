@@ -1,0 +1,45 @@
+Last login: Tue Nov 13 19:43:52 on ttys001
+You have new mail.
+raju:~ psramaraju$ cd Desktop/MuJava
+raju:MuJava psramaraju$ CLASSPATH=$CLASSPATH:/Users/psramaraju/Desktop/MuJava/mujava.jar:/Users/psramaraju/Desktop/MuJava/openjava.jar:/usr/bin/java:/Users/psramaraju/Desktop/MuJava/mujava.jar:/Users/psramaraju/Desktop/MuJava/openjava.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/lib/tools.jar ; export CLASSPATH 
+raju:MuJava psramaraju$ java mujava.gui.RunTestMain
+myinterpreter.InterpreterTest
+
+
+======================================== Generating Original Test Results ========================================
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Paranthesis not properly balanced!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Variable : ' b 'does not exist!
+Invalid Syntax!
+Invalid Syntax!
+Invalid Syntax!
+Invalid character!
+Invalid character!
+Invalid character!
+Divide by zero error!
+Divide by zero error!
+Divide by zero error!
+{testRun=pass}
+ No mutants have been generated for the class Interpreter
+
+
+======================================== Executing Mutants ========================================
+test report: {testRun=}
+mutant report: {}
+[Notice] There are no mutants to apply
+ No mutants have been generated for the method void_main(java.lang.String[]) of the classInterpreter
+
+
+======================================== Executing Mutants ========================================
+test report: {testRun=}
+mutant report: {}
+
+
+======================================== Executing Mutants ========================================
+  SDL_1{testRun=testRun: 14; expected:<[3.0]> but was:<[]>}
+test report: {testRun=SDL_1}
+mutant report: {SDL_1=testRun}
+raju:MuJava psramaraju$ 
