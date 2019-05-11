@@ -1,0 +1,3 @@
+SDL_1:16:void_setVariableName(java.lang.String): variableName = givenName;  =>  
+SDL_2:21:void_setVariableValue(java.lang.Double): variableValue = givenValue;  =>  
+SDL_3:27:java.lang.String_getVariableName(): return variableName;  =>   return \"\";

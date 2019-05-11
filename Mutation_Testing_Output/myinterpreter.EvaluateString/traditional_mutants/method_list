@@ -1,0 +1,4 @@
+java.lang.Double_applyOperations(char,java.lang.Double,java.lang.Double)
+boolean_hasPrecedence(char,char)
+java.lang.Double_evaluate(java.lang.String)
+java.lang.Double_evaluateString(java.lang.String)

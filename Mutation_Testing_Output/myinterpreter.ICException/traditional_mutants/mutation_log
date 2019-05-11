@@ -1,0 +1,2 @@
+SDL_1:15:java.lang.String_Message(): System.out.println( \"Invalid character!\" ); return \"Invalid character!\";  =>   return \"Invalid character!\";
+SDL_2:16:java.lang.String_Message(): return \"Invalid character!\";  =>   return \"\";

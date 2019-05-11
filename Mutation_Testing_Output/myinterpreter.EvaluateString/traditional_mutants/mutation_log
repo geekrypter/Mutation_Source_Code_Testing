@@ -1,0 +1,127 @@
+AORS_1:54:java.lang.Double_evaluate(java.lang.String):i++ => i--
+AORS_2:58:java.lang.Double_evaluate(java.lang.String):i++ => i--
+AORS_3:61:java.lang.Double_evaluate(java.lang.String):i-- => i++
+AODS_1:58:java.lang.Double_evaluate(java.lang.String):i++ => i
+AODS_2:61:java.lang.Double_evaluate(java.lang.String):i-- => i
+AOIU_1:16:java.lang.Double_applyOperations(char,java.lang.Double,java.lang.Double):givenOperator => -givenOperator
+AOIU_2:54:java.lang.Double_evaluate(java.lang.String):i => -i
+AOIU_3:54:java.lang.Double_evaluate(java.lang.String):tokens.length => -tokens.length
+AOIU_4:63:java.lang.Double_evaluate(java.lang.String):i => -i
+AOIU_5:64:java.lang.Double_evaluate(java.lang.String):i => -i
+AOIU_6:66:java.lang.Double_evaluate(java.lang.String):i => -i
+AOIU_7:76:java.lang.Double_evaluate(java.lang.String):i => -i
+COR_1:38:boolean_hasPrecedence(char,char): operator2 == '(' || operator2 == ')'  =>   operator2 == '(' && operator2 == ')'
+COR_2:38:boolean_hasPrecedence(char,char): operator2 == '(' || operator2 == ')'  =>   operator2 == '(' ^ operator2 == ')'
+COR_3:41:boolean_hasPrecedence(char,char): operator1 == '*' || operator1 == '/'  =>   operator1 == '*' && operator1 == '/'
+COR_4:41:boolean_hasPrecedence(char,char): operator1 == '*' || operator1 == '/'  =>   operator1 == '*' ^ operator1 == '/'
+COR_5:41:boolean_hasPrecedence(char,char): operator2 == '+' || operator2 == '-'  =>   operator2 == '+' && operator2 == '-'
+COR_6:41:boolean_hasPrecedence(char,char): operator2 == '+' || operator2 == '-'  =>   operator2 == '+' ^ operator2 == '-'
+COR_7:41:boolean_hasPrecedence(char,char): (operator1 == '*' || operator1 == '/') && (operator2 == '+' || operator2 == '-')  =>   operator1 == '*' || operator1 == '/' || (operator2 == '+' || operator2 == '-')
+COR_8:41:boolean_hasPrecedence(char,char): (operator1 == '*' || operator1 == '/') && (operator2 == '+' || operator2 == '-')  =>   (operator1 == '*' || operator1 == '/') ^ (operator2 == '+' || operator2 == '-')
+COR_9:55:java.lang.Double_evaluate(java.lang.String): tokens[i] >= '0' && tokens[i] <= '9'  =>   tokens[i] >= '0' || tokens[i] <= '9'
+COR_10:55:java.lang.Double_evaluate(java.lang.String): tokens[i] >= '0' && tokens[i] <= '9'  =>   tokens[i] >= '0' ^ tokens[i] <= '9'
+COR_11:57:java.lang.Double_evaluate(java.lang.String): tokens[i] >= '0' && tokens[i] <= '9'  =>   tokens[i] >= '0' || tokens[i] <= '9'
+COR_12:57:java.lang.Double_evaluate(java.lang.String): tokens[i] >= '0' && tokens[i] <= '9'  =>   tokens[i] >= '0' ^ tokens[i] <= '9'
+COR_13:57:java.lang.Double_evaluate(java.lang.String): tokens[i] >= '0' && tokens[i] <= '9' || tokens[i] == '.'  =>   tokens[i] >= '0' && tokens[i] <= '9' && tokens[i] == '.'
+COR_14:57:java.lang.Double_evaluate(java.lang.String): tokens[i] >= '0' && tokens[i] <= '9' || tokens[i] == '.'  =>   (tokens[i] >= '0' && tokens[i] <= '9') ^ tokens[i] == '.'
+COR_15:57:java.lang.Double_evaluate(java.lang.String): i < tokens.length && (tokens[i] >= '0' && tokens[i] <= '9' || tokens[i] == '.')  =>   i < tokens.length || (tokens[i] >= '0' && tokens[i] <= '9' || tokens[i] == '.')
+COR_16:57:java.lang.Double_evaluate(java.lang.String): i < tokens.length && (tokens[i] >= '0' && tokens[i] <= '9' || tokens[i] == '.')  =>   i < tokens.length ^ (tokens[i] >= '0' && tokens[i] <= '9' || tokens[i] == '.')
+COR_17:72:java.lang.Double_evaluate(java.lang.String): tokens[i] == '+' || tokens[i] == '-'  =>   tokens[i] == '+' && tokens[i] == '-'
+COR_18:72:java.lang.Double_evaluate(java.lang.String): tokens[i] == '+' || tokens[i] == '-'  =>   tokens[i] == '+' ^ tokens[i] == '-'
+COR_19:72:java.lang.Double_evaluate(java.lang.String): tokens[i] == '+' || tokens[i] == '-' || tokens[i] == '*'  =>   (tokens[i] == '+' || tokens[i] == '-') && tokens[i] == '*'
+COR_20:72:java.lang.Double_evaluate(java.lang.String): tokens[i] == '+' || tokens[i] == '-' || tokens[i] == '*'  =>   (tokens[i] == '+' || tokens[i] == '-') ^ tokens[i] == '*'
+COR_21:72:java.lang.Double_evaluate(java.lang.String): tokens[i] == '+' || tokens[i] == '-' || tokens[i] == '*' || tokens[i] == '/'  =>   (tokens[i] == '+' || tokens[i] == '-' || tokens[i] == '*') && tokens[i] == '/'
+COR_22:72:java.lang.Double_evaluate(java.lang.String): tokens[i] == '+' || tokens[i] == '-' || tokens[i] == '*' || tokens[i] == '/'  =>   (tokens[i] == '+' || tokens[i] == '-' || tokens[i] == '*') ^ tokens[i] == '/'
+COD_1:73:java.lang.Double_evaluate(java.lang.String):!operatorStack.empty() => operatorStack.empty()
+COD_2:82:java.lang.Double_evaluate(java.lang.String):!operatorStack.empty() => operatorStack.empty()
+COI_1:27:java.lang.Double_applyOperations(char,java.lang.Double,java.lang.Double): num2 == 0  =>  !(num2 == 0)
+COI_2:38:boolean_hasPrecedence(char,char): operator2 == '('  =>  !(operator2 == '(')
+COI_3:38:boolean_hasPrecedence(char,char): operator2 == ')'  =>  !(operator2 == ')')
+COI_4:38:boolean_hasPrecedence(char,char): operator2 == '(' || operator2 == ')'  =>  !(operator2 == '(' || operator2 == ')')
+COI_5:41:boolean_hasPrecedence(char,char): operator1 == '*'  =>  !(operator1 == '*')
+COI_6:41:boolean_hasPrecedence(char,char): operator1 == '/'  =>  !(operator1 == '/')
+COI_7:41:boolean_hasPrecedence(char,char): operator1 == '*' || operator1 == '/'  =>  !(operator1 == '*' || operator1 == '/')
+COI_8:41:boolean_hasPrecedence(char,char): operator2 == '+'  =>  !(operator2 == '+')
+COI_9:41:boolean_hasPrecedence(char,char): operator2 == '-'  =>  !(operator2 == '-')
+COI_10:41:boolean_hasPrecedence(char,char): operator2 == '+' || operator2 == '-'  =>  !(operator2 == '+' || operator2 == '-')
+COI_11:41:boolean_hasPrecedence(char,char): (operator1 == '*' || operator1 == '/') && (operator2 == '+' || operator2 == '-')  =>  !((operator1 == '*' || operator1 == '/') && (operator2 == '+' || operator2 == '-'))
+COI_12:54:java.lang.Double_evaluate(java.lang.String): i < tokens.length  =>  !(i < tokens.length)
+COI_13:55:java.lang.Double_evaluate(java.lang.String): tokens[i] >= '0'  =>  !(tokens[i] >= '0')
+COI_14:55:java.lang.Double_evaluate(java.lang.String): tokens[i] <= '9'  =>  !(tokens[i] <= '9')
+COI_15:55:java.lang.Double_evaluate(java.lang.String): tokens[i] >= '0' && tokens[i] <= '9'  =>  !(tokens[i] >= '0' && tokens[i] <= '9')
+COI_16:57:java.lang.Double_evaluate(java.lang.String): i < tokens.length  =>  !(i < tokens.length)
+COI_17:57:java.lang.Double_evaluate(java.lang.String): tokens[i] >= '0'  =>  !(tokens[i] >= '0')
+COI_18:57:java.lang.Double_evaluate(java.lang.String): tokens[i] <= '9'  =>  !(tokens[i] <= '9')
+COI_19:57:java.lang.Double_evaluate(java.lang.String): tokens[i] >= '0' && tokens[i] <= '9'  =>  !(tokens[i] >= '0' && tokens[i] <= '9')
+COI_20:57:java.lang.Double_evaluate(java.lang.String): tokens[i] == '.'  =>  !(tokens[i] == '.')
+COI_21:57:java.lang.Double_evaluate(java.lang.String): tokens[i] >= '0' && tokens[i] <= '9' || tokens[i] == '.'  =>  !(tokens[i] >= '0' && tokens[i] <= '9' || tokens[i] == '.')
+COI_22:57:java.lang.Double_evaluate(java.lang.String): i < tokens.length && (tokens[i] >= '0' && tokens[i] <= '9' || tokens[i] == '.')  =>  !(i < tokens.length && (tokens[i] >= '0' && tokens[i] <= '9' || tokens[i] == '.'))
+COI_23:63:java.lang.Double_evaluate(java.lang.String): tokens[i] == '('  =>  !(tokens[i] == '(')
+COI_24:66:java.lang.Double_evaluate(java.lang.String): tokens[i] == ')'  =>  !(tokens[i] == ')')
+COI_25:67:java.lang.Double_evaluate(java.lang.String): operatorStack.peek() != '('  =>  !(operatorStack.peek() != '(')
+COI_26:72:java.lang.Double_evaluate(java.lang.String): tokens[i] == '+'  =>  !(tokens[i] == '+')
+COI_27:72:java.lang.Double_evaluate(java.lang.String): tokens[i] == '-'  =>  !(tokens[i] == '-')
+COI_28:72:java.lang.Double_evaluate(java.lang.String): tokens[i] == '+' || tokens[i] == '-'  =>  !(tokens[i] == '+' || tokens[i] == '-')
+COI_29:72:java.lang.Double_evaluate(java.lang.String): tokens[i] == '*'  =>  !(tokens[i] == '*')
+COI_30:72:java.lang.Double_evaluate(java.lang.String): tokens[i] == '+' || tokens[i] == '-' || tokens[i] == '*'  =>  !(tokens[i] == '+' || tokens[i] == '-' || tokens[i] == '*')
+COI_31:72:java.lang.Double_evaluate(java.lang.String): tokens[i] == '/'  =>  !(tokens[i] == '/')
+COI_32:72:java.lang.Double_evaluate(java.lang.String): tokens[i] == '+' || tokens[i] == '-' || tokens[i] == '*' || tokens[i] == '/'  =>  !(tokens[i] == '+' || tokens[i] == '-' || tokens[i] == '*' || tokens[i] == '/')
+LOI_1:16:java.lang.Double_applyOperations(char,java.lang.Double,java.lang.Double):givenOperator => ~givenOperator
+LOI_2:38:boolean_hasPrecedence(char,char):operator2 => ~operator2
+LOI_3:38:boolean_hasPrecedence(char,char):operator2 => ~operator2
+LOI_4:41:boolean_hasPrecedence(char,char):operator1 => ~operator1
+LOI_5:41:boolean_hasPrecedence(char,char):operator1 => ~operator1
+LOI_6:41:boolean_hasPrecedence(char,char):operator2 => ~operator2
+LOI_7:41:boolean_hasPrecedence(char,char):operator2 => ~operator2
+LOI_8:54:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_9:54:java.lang.Double_evaluate(java.lang.String):tokens.length => ~tokens.length
+LOI_10:54:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_11:55:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_12:55:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_13:57:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_14:57:java.lang.Double_evaluate(java.lang.String):tokens.length => ~tokens.length
+LOI_15:57:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_16:57:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_17:57:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_18:58:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_19:61:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_20:63:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_21:64:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_22:66:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_23:72:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_24:72:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_25:72:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_26:72:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_27:73:java.lang.Double_evaluate(java.lang.String):i => ~i
+LOI_28:76:java.lang.Double_evaluate(java.lang.String):i => ~i
+VDL_1:18:java.lang.Double_applyOperations(char,java.lang.Double,java.lang.Double):num1 + num2 => num2
+VDL_2:18:java.lang.Double_applyOperations(char,java.lang.Double,java.lang.Double):num1 + num2 => num1
+VDL_3:21:java.lang.Double_applyOperations(char,java.lang.Double,java.lang.Double):num1 - num2 => num2
+VDL_4:21:java.lang.Double_applyOperations(char,java.lang.Double,java.lang.Double):num1 - num2 => num1
+VDL_5:24:java.lang.Double_applyOperations(char,java.lang.Double,java.lang.Double):num1 * num2 => num2
+VDL_6:24:java.lang.Double_applyOperations(char,java.lang.Double,java.lang.Double):num1 * num2 => num1
+VDL_7:27:java.lang.Double_applyOperations(char,java.lang.Double,java.lang.Double):num2 == 0 => 0
+VDL_8:30:java.lang.Double_applyOperations(char,java.lang.Double,java.lang.Double):num1 / num2 => num2
+VDL_9:30:java.lang.Double_applyOperations(char,java.lang.Double,java.lang.Double):num1 / num2 => num1
+VDL_10:38:boolean_hasPrecedence(char,char):operator2 == '(' => '('
+VDL_11:38:boolean_hasPrecedence(char,char):operator2 == ')' => ')'
+VDL_12:41:boolean_hasPrecedence(char,char):operator1 == '*' => '*'
+VDL_13:41:boolean_hasPrecedence(char,char):operator1 == '/' => '/'
+VDL_14:41:boolean_hasPrecedence(char,char):operator2 == '+' => '+'
+VDL_15:41:boolean_hasPrecedence(char,char):operator2 == '-' => '-'
+VDL_16:54:java.lang.Double_evaluate(java.lang.String):i < tokens.length => tokens.length
+VDL_17:54:java.lang.Double_evaluate(java.lang.String):i++ =>  
+VDL_18:55:java.lang.Double_evaluate(java.lang.String):tokens[i] >= '0' => '0'
+VDL_19:55:java.lang.Double_evaluate(java.lang.String):tokens[i] <= '9' => '9'
+VDL_20:57:java.lang.Double_evaluate(java.lang.String):i < tokens.length => tokens.length
+VDL_21:57:java.lang.Double_evaluate(java.lang.String):tokens[i] >= '0' => '0'
+VDL_22:57:java.lang.Double_evaluate(java.lang.String):tokens[i] <= '9' => '9'
+VDL_23:57:java.lang.Double_evaluate(java.lang.String):tokens[i] == '.' => '.'
+VDL_24:58:java.lang.Double_evaluate(java.lang.String):i++ =>  
+VDL_25:61:java.lang.Double_evaluate(java.lang.String):i-- =>  
+VDL_26:63:java.lang.Double_evaluate(java.lang.String):tokens[i] == '(' => '('
+VDL_27:66:java.lang.Double_evaluate(java.lang.String):tokens[i] == ')' => ')'
+VDL_28:72:java.lang.Double_evaluate(java.lang.String):tokens[i] == '+' => '+'
+VDL_29:72:java.lang.Double_evaluate(java.lang.String):tokens[i] == '-' => '-'
+VDL_30:72:java.lang.Double_evaluate(java.lang.String):tokens[i] == '*' => '*'
+VDL_31:72:java.lang.Double_evaluate(java.lang.String):tokens[i] == '/' => '/'

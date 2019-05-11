@@ -1,0 +1,4 @@
+void_setVariableName(java.lang.String)
+void_setVariableValue(java.lang.Double)
+java.lang.String_getVariableName()
+java.lang.Double_getVariableValue()

@@ -1,0 +1,2 @@
+SDL_1:15:java.lang.String_Message(): System.out.println( \"Cannot Assign to operator!\" ); return \"Cannot Assign to operator!\";  =>   return \"Cannot Assign to operator!\";
+SDL_2:16:java.lang.String_Message(): return \"Cannot Assign to operator!\";  =>   return \"\";

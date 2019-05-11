@@ -1,0 +1,1 @@
+SDL_1:20:java.lang.String_run(java.lang.String): return start.implementation( inputType );  =>   return \"\";
